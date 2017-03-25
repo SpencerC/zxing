@@ -50,6 +50,9 @@ public enum BarcodeFormat {
   /** ITF (Interleaved Two of Five) 1D format. */
   ITF,
 
+  /** STF (Standard Two of Five) 1D format. */
+  STF,
+
   /** MaxiCode 2D barcode format. */
   MAXICODE,
 
